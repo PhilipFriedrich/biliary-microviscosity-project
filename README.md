@@ -1,5 +1,5 @@
 # biliary-microviscosity-project
-This repository contains all important data and codes used in the project.
+This repository contains all important data and codes used in the biliary micro-viscosity project.
 
 Code and data are available for the video particle tracking (VPT) based measurements of biliary micro-viscosity.
 
